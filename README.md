@@ -1,7 +1,7 @@
 ### Ola! Eu sou Wilkias Freitas 👋
 
 
-- 🌱 Estudando: Python ...
+- 🌱 Estudando: Python e Java
 - 😄 Pronouns: Ele/Dele
 
 <div>
@@ -15,6 +15,8 @@
    <img align="center" alt="Wil97-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Wil97-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Wil97-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+     <img align="center" alt="Wil97-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
 </div>
 
 ##
